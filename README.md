@@ -1,8 +1,8 @@
-# History.js for Rails ![Build Status][travis_ci_build_status]
+# History.js for Rails [![Build Status][travis_ci_build_status]][travis_ci][![Dependency Status][gemnasium_dependency_status]][gemnasium]
 
 Provides History.js (1.7.1) for use with Rails 3
 
-[RubyGems][ruby_gems] | [Ruby Toolbox][ruby_toolbox] | [GitHub][github] | [Travis CI][travis_ci] | [RubyDoc][ruby_doc]
+[RubyGems][ruby_gems] | [Ruby Toolbox][ruby_toolbox] | [GitHub][github] | [Travis CI][travis_ci] | [Gemnasium][gemnasium] | [RubyDoc][ruby_doc]
 
 ## Installation
 ### Rails 3.1+
@@ -75,10 +75,12 @@ History.js is now installed. Woop!
 ##History.js Resources
 [GitHub][historyjs_github]
 
-[github]: http://github.com/philostler/historyjs-rails
-[ruby_doc]: http://rubydoc.info/github/philostler/historyjs-rails/master/frames
 [ruby_gems]: http://rubygems.org/gems/historyjs-rails
+[ruby_toolbox]: http://www.ruby-toolbox.com/projects/historyjs-rails
+[github]: http://github.com/philostler/historyjs-rails
 [travis_ci]: http://travis-ci.org/philostler/historyjs-rails
 [travis_ci_build_status]: https://secure.travis-ci.org/philostler/historyjs-rails.png
-[ruby_toolbox]: http://www.ruby-toolbox.com/projects/historyjs-rails
+[gemnasium]: https://gemnasium.com/philostler/historyjs-rails
+[gemnasium_dependency_status]: https://gemnasium.com/philostler/historyjs-rails.png
+[ruby_doc]: http://rubydoc.info/github/philostler/historyjs-rails/master/frames
 [historyjs_github]: http://github.com/balupton/history.js
