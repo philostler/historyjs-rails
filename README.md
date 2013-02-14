@@ -1,6 +1,6 @@
 # History.js for Rails [![Build Status][travis_ci_build_status]][travis_ci][![Dependency Status][gemnasium_dependency_status]][gemnasium]
 
-Provides History.js (1.7.1) for use with Rails 3
+Provides History.js (1.7.1) for use with Rails 3 & 4
 
 [RubyGems][ruby_gems] | [Ruby Toolbox][ruby_toolbox] | [GitHub][github] | [Travis CI][travis_ci] | [Gemnasium][gemnasium] | [RubyDoc][ruby_doc]
 
