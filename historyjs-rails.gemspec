@@ -11,7 +11,7 @@ Gem::Specification.new do |s|
   s.summary     = %q{History.js for Rails}
   s.description = %q{Provides History.js for use with Rails 3}
 
-  s.add_dependency "railties", "=> 3.0"
+  s.add_dependency "railties", ">= 3.0"
 
   s.add_development_dependency "rspec", "~> 2.0"
 
