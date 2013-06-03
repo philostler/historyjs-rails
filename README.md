@@ -83,4 +83,4 @@ History.js is now installed. Woop!
 [gemnasium]: https://gemnasium.com/philostler/historyjs-rails
 [gemnasium_dependency_status]: https://gemnasium.com/philostler/historyjs-rails.png
 [ruby_doc]: http://rubydoc.info/github/philostler/historyjs-rails/master/frames
-[historyjs_github]: http://github.com/balupton/history.js
+[historyjs_github]: https://github.com/browserstate/history.js
