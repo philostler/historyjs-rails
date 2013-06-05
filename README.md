@@ -1,8 +1,17 @@
-# History.js for Rails [![Build Status][travis_ci_build_status]][travis_ci][![Dependency Status][gemnasium_dependency_status]][gemnasium]
+# History.js for Rails
 
-Provides History.js (1.7.1) for use with Rails 3 & 4
+[![RubyGems][gem_version_badge]][ruby_gems]
+[![Travis CI][travis_ci_badge]][travis_ci]
+[![Gemnasium][gemnasium_badge]][gemnasium]
+[![coderwall][coderwall_badge]][coderwall]
 
-[RubyGems][ruby_gems] | [Ruby Toolbox][ruby_toolbox] | [GitHub][github] | [Travis CI][travis_ci] | [Gemnasium][gemnasium] | [RubyDoc][ruby_doc]
+*Provides History.js (1.7.1) for use with Rails 3 & 4*
+
+[RubyGems][ruby_gems] |
+[GitHub][github] |
+[Travis CI][travis_ci] |
+[Gemnasium][gemnasium] |
+[RubyDoc][ruby_doc] |
 
 ## Installation
 ### Rails 3.1+
@@ -73,14 +82,17 @@ rails generate historyjs:install --native --html5    # For everything else
 History.js is now installed. Woop!
 
 ##History.js Resources
-[GitHub][historyjs_github]
+[GitHub][historyjs]
 
+[coderwall]: https://coderwall.com/philostler
+[coderwall_badge]: https://api.coderwall.com/philostler/endorsecount.png
+[gem_version_badge]: https://badge.fury.io/rb/historyjs-rails.png
+[gemnasium]: https://gemnasium.com/philostler/historyjs-rails
+[gemnasium_badge]: https://gemnasium.com/philostler/historyjs-rails.png
+[github]: http://github.com/philostler/historyjs-rails
+[historyjs]: https://github.com/browserstate/history.js
+[ruby_doc]: http://rubydoc.info/github/philostler/historyjs-rails/master/frames
 [ruby_gems]: http://rubygems.org/gems/historyjs-rails
 [ruby_toolbox]: http://www.ruby-toolbox.com/projects/historyjs-rails
-[github]: http://github.com/philostler/historyjs-rails
 [travis_ci]: http://travis-ci.org/philostler/historyjs-rails
-[travis_ci_build_status]: https://secure.travis-ci.org/philostler/historyjs-rails.png
-[gemnasium]: https://gemnasium.com/philostler/historyjs-rails
-[gemnasium_dependency_status]: https://gemnasium.com/philostler/historyjs-rails.png
-[ruby_doc]: http://rubydoc.info/github/philostler/historyjs-rails/master/frames
-[historyjs_github]: https://github.com/browserstate/history.js
+[travis_ci_badge]: https://secure.travis-ci.org/philostler/historyjs-rails.png
